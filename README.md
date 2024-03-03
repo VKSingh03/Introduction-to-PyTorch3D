@@ -108,35 +108,35 @@ A bash script is provided which will run all the script to generate output for a
 
 2. First make the bash file executable by running the below command after navigating to this folder. 
 
-    chmod +x submission.sh
+    `chmod +x submission.sh`
 
 2. Now run the script using the below command. This will run the script to generate all the output. The output results will be stored in results folder. 
 
-    ./submission.sh
+    `./submission.sh`
 
 
 3. After running the above script, Open the webpage to view all the results. 
 
 ## >Note: To generate output for individual sections use the below commands: 
 
-    python3 submission.py --question 0.1
+   `python3 submission.py --question 0.1`
 
-    python3 submission.py --question 1.1
+   ` python3 submission.py --question 1.1`
     
-    python3 submission.py --question 1.2
+   `python3 submission.py --question 1.2`
     
-    python3 submission.py --question 2.1
+   ` python3 submission.py --question 2.1`
     
-    python3 submission.py --question 2.2
+   ` python3 submission.py --question 2.2`
     
-    python3 submission.py --question 3
+   ` python3 submission.py --question 3`
     
-    python3 submission.py --question 4
+   ` python3 submission.py --question 4`
     
-    python3 submission.py --question 5.1
+   ` python3 submission.py --question 5.1`
     
-    python3 submission.py --question 5.2
+   ` python3 submission.py --question 5.2`
     
-    python3 submission.py --question 5.3
+   ` python3 submission.py --question 5.3`
 
 
